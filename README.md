@@ -1,9 +1,9 @@
-Litecoin Core integration/staging tree
+Toruscoin Core integration/staging tree
 =====================================
 
 [![Build Status](https://travis-ci.org/litecoin-project/litecoin.svg?branch=master)](https://travis-ci.org/litecoin-project/litecoin)
 
-https://litecoin.org
+https://www.toruscoin.io
 
 What is Litecoin?
 ----------------
