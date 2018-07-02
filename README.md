@@ -68,7 +68,7 @@ not straightforward.
 
 Translations
 ------------
-
+.
 We only accept translation fixes that are submitted through [Bitcoin Core's Transifex page](https://www.transifex.com/projects/p/bitcoin/).
 Translations are converted to toruscoin periodically.
 
